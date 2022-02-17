@@ -1,2 +1,2 @@
-<h2> Alx programm is cool </h2>
-<p> getting used </p>
+<h2> This is ALX </h2>
+<p> I am not giving up </p>
